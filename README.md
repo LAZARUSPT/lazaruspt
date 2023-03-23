@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... IGaming Industry
-- 🌱 I’m currently learning ... HTML CSS Javascript SQL NODE EXPRESSJS
+- 🌱 I’m currently learning ... HTML CSS Javascript SQL NODE EXPRESSJS.
 - 👯 I’m looking to collaborate on ... Not yet
 - 🤔 I’m looking for help with ... always happy to learn something new
 - 💬 Ask me about ... anything, worst case is that I do not answer.
